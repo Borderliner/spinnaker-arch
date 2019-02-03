@@ -22,3 +22,8 @@ It installs `dropbox` and `onlyoffice` as dependencies to SpinView, and
 if you try to remove these packages, it will try removing SpinView as 
 well. So just live with it.
 
+## License
+
+Of course I'm not affiliated with FLIR, nor Spinnaker or any other FLIR products. FLIR [may own this](reza.hajianpour@queensu.ca), but until then, this piece of code is licensed as FLIR proprietary license, or any other sharedware-like license they might have.
+
+But please, support more platforms. I'm sick of Ubuntu.
